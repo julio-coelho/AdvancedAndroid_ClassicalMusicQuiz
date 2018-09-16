@@ -25,4 +25,6 @@
     <string name="play">Play</string>
     <string name="pause">Pause</string>
     <string name="restart">Restart</string>
+    <string name="notification_channel_name">Quiz Classical</string>
+    <string name="notification_channel_description">Quiz Classical Media</string>
 </resources>
